@@ -1,5 +1,0 @@
-Welcome to the Advanced Imaging Lab, led by Professor Ori Katz at the Hebrew University. Our lab is dedicated to developing cutting-edge optics-based techniques for imaging deep into opaque samples and around corners. We believe that by combining controlled light, sound, and advanced computational methods, we can go beyond the limitations of conventional cameras.
-
-As a student in our lab, you will be working at the intersection of physics and engineering to tackle some of the most challenging problems in the field of imaging. Our focus on computational-based optical imaging techniques is aimed at overcoming the limitations imposed by light scattering on optical microscopy. Our work challenges traditional notions about randomly scattered light and demonstrates that it is possible to extract information from it for imaging purposes.
-
-We encourage our students to share their code and contribute to the development of our lab by uploading their work to this repository. This will not only allow us to collaborate effectively but also provide an opportunity for you to showcase your work to the broader scientific community.
